@@ -2,8 +2,6 @@
 
   ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=PeppermintBacon&fontAlignY=37&textBg=false&fontColor=81F7BE)
 
-  [![PeppermintBacon profile views](https://u8views.com/api/v1/github/profiles/187579910/views/day-week-month-total-count.svg)](https://u8views.com/github/PeppermintBacon)
-  
 </div>
 
 # 👋 Hi There!, I'm PeppermintBacon!
@@ -29,6 +27,8 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeppermintBacon&theme=vue&show_icons=true)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeppermintBacon&layout=donut&theme=vue)
+
+  [![PeppermintBacon profile views](https://u8views.com/api/v1/github/profiles/187579910/views/day-week-month-total-count.svg)](https://u8views.com/github/PeppermintBacon)
   
 </div>
 
