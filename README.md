@@ -4,7 +4,7 @@
 
 </div>
 
-# 👋 Hi There!, I'm PeppermintBacon!
+## 👋 Hi There!, I'm PeppermintBacon!
 
 ## 🧑‍💻 About Me
 안녕하세요! 저는 중앙대학교 예술공학부에 재학중인 **PeppermintBacon**입니다.
