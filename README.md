@@ -26,7 +26,7 @@
 ## 📊 GitHub Stats
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeppermintBacon&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeppermintBacon&theme=vue&show_icons=true)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeppermintBacon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
