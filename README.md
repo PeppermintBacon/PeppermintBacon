@@ -1,5 +1,14 @@
+<div align="center">
 
-# 👋 Hello, I'm PeppermintBacon!
+  ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=PeppermintBacon&fontAlignY=37&textBg=false&fontColor=81F7BE)
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeppermintBacon&theme=vue&show_icons=true)
+
+  [![PeppermintBacon profile views](https://u8views.com/api/v1/github/profiles/187579910/views/day-week-month-total-count.svg)](https://u8views.com/github/PeppermintBacon)
+  
+</div>
+
+# 👋 Hi There!, I'm PeppermintBacon!
 
 ## 🧑‍💻 About Me
 안녕하세요! 저는 중앙대학교 예술공학부에 재학중인 **PeppermintBacon**입니다.
