@@ -6,6 +6,6 @@
   
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There!;It's+me!)](https://git.io/typing-svg)
-  
+##Contact
+
 <a href="mailto:hankooktyrers4@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
