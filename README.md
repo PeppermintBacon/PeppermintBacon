@@ -16,8 +16,8 @@
 ## 📂 Projects
 
 ## 📞 Contact Me
-- **Email:** <a href="mailto:hankooktyrers4@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hankooktyrers4@gmail.com" style="width: 200px; height: 50px;"/>
-- **GitHub:** <a href="https://github.com/PeppermintBacon"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" style="width: 200px; height: 50px;"/>
+- **Email:** <a href="mailto:hankooktyrers4@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hankooktyrers4@gmail.com"/>
+- **GitHub:** <a href="https://github.com/PeppermintBacon"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 
