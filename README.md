@@ -1,5 +1,4 @@
-![rounded][(https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&text=Rounded%20with%20stroke&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=PeppermintBacon&fontAlignY=37)
-
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=PeppermintBacon&fontAlignY=37&textBg=false&fontColor=81F7BE)
     
 ## Hi there It's me!👋
 
